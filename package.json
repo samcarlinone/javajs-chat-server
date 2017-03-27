@@ -1,0 +1,20 @@
+{
+  "name": "javajs-chat-server",
+  "version": "1.0.0",
+  "description": "javajs-chat",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samcarlinone/javajs-chat-server.git"
+  },
+  "author": "Sam Carlin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samcarlinone/javajs-chat-server/issues"
+  },
+  "homepage": "https://github.com/samcarlinone/javajs-chat-server#readme"
+}
