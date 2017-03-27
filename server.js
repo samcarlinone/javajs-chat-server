@@ -4,7 +4,7 @@ const url = require('url');
 const chat = require('./chat');
 
 //Lets define a port we want to listen to
-const PORT=80;
+const PORT = process.env.PORT || 80;
 
 console.log(chat);
 
